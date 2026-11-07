@@ -1,0 +1,6 @@
+{
+  "name": "Startup Journey",
+  "description": "A kid-friendly 2D business game across 5 lessons: build a company, learn math and finance, and keep the biggest slice!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
